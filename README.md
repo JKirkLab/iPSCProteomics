@@ -3,5 +3,5 @@ Instructions:
 1. On Git Hub, click Code. 
 3. Download zip.
 4. Extract all. (Files will not open properly without this step.)
-5. Open the Excel spreadsheet and click on the hyperlink in the lineplot link column for your protein of interest.
+5. Open the Excel spreadsheet and click on the hyperlink in the lineplot link column to see how your protein of interest changes over time in both the D65A cTnC (non-contractile) cardiomyocytes and wildtype (contractile) cardiomyocytes.
    
